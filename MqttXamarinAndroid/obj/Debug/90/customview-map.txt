@@ -1,0 +1,10 @@
+Button;obj\Debug\90\res\layout\main.xml
+CheckBox;obj\Debug\90\res\layout\main.xml
+EditText;obj\Debug\90\res\layout\main.xml
+item;obj\Debug\90\res\values\strings.xml
+LinearLayout;obj\Debug\90\res\layout\main.xml
+resources;obj\Debug\90\res\values\strings.xml
+Spinner;obj\Debug\90\res\layout\main.xml
+string;obj\Debug\90\res\values\strings.xml
+string-array;obj\Debug\90\res\values\strings.xml
+TextView;obj\Debug\90\res\layout\main.xml
